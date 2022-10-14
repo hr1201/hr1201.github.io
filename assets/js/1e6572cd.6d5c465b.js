@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhr_1201_github_io=self.webpackChunkhr_1201_github_io||[]).push([[8541],{8193:o=>{o.exports=JSON.parse('{"permalink":"/hr1201.github.io/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
