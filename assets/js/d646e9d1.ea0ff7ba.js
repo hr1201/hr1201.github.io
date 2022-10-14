@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhr_1201_github_io=self.webpackChunkhr_1201_github_io||[]).push([[3349],{746:h=>{h.exports=JSON.parse('{"label":"hello","permalink":"/hr1201.github.io/blog/tags/hello","allTagsPath":"/hr1201.github.io/blog/tags","count":2}')}}]);
