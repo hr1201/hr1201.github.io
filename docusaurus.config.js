@@ -9,7 +9,7 @@ const config = {
   title: 'hr Site',
   tagline: '前端学习',
   url: 'https://hr1201.github.io',
-  baseUrl: '/hr1201.github.io/',
+  baseUrl: '/hr-site/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
